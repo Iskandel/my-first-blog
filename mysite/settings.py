@@ -25,7 +25,7 @@ SECRET_KEY = 'brbsc9#ap(=vf(+l&x=_qn@4p=o#m3m6=w&lf28729o4!yhu0r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Iskandel>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'iskandel.pythonanywhere.com']
 
 
 # Application definition
